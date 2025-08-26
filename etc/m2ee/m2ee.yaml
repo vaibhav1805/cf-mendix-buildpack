@@ -29,6 +29,7 @@ m2ee:
 
   jetty:
     max_form_content_size: 10485760
+    maxThreads: 500
 
   allow_destroy_db: true
 
